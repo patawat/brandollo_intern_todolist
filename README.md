@@ -1,3 +1,7 @@
+## Creator
+Patawat Watakul
+www.patawat.com
+
 # todolist
 
 ## Project setup
